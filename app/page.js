@@ -40,6 +40,8 @@ export default function Home() {
           height={37}
           priority
         />
+        <br></br>
+        Hi NEXT.js It is me
       </div>
 
       <div className={styles.grid}>
